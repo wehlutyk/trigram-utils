@@ -1,5 +1,5 @@
 {
-  "name": "trigram-utils",
+  "name": "trigram-utils-global",
   "version": "0.1.1",
   "description": "Few language trigram utility functions",
   "license": "MIT",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wooorm/trigram-utils.git"
+    "url": "https://github.com/wehlutyk/trigram-utils.git"
   },
   "author": "Titus Wormer <tituswormer@gmail.com>",
   "devDependencies": {

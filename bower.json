@@ -1,6 +1,6 @@
 {
-  "name": "trigram-utils",
-  "main": "index.js",
+  "name": "trigram-utils-global",
+  "main": "index-global.js",
   "description": "Few language trigram utility functions",
   "license": "MIT",
   "keywords": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wooorm/trigram-utils.git"
+    "url": "https://github.com/wehlutyk/trigram-utils.git"
   },
   "authors": [
     "Titus Wormer <tituswormer@gmail.com>"
