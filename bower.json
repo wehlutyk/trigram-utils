@@ -1,5 +1,5 @@
 {
-  "name": "trigram-utils-global",
+  "name": "wehlutyk-trigram-utils",
   "main": "index-global.js",
   "description": "Few language trigram utility functions",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
-  "name": "trigram-utils-global",
-  "version": "0.1.1",
+  "name": "wehlutyk-trigram-utils",
+  "version": "0.1.2",
   "description": "Few language trigram utility functions",
   "license": "MIT",
   "keywords": [
